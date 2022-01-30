@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bloomgithub
+- 🌱 I’m currently learning cs at Bristol
+- 📫 alexanderbloom@icloud.com
